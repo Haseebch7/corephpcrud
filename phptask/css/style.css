@@ -1,0 +1,16 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+
+.btn-primary
+{
+	float: right;
+	position: relative;
+	bottom: 36px;
+	width: 150px; 
+	height: 35px;
+	cursor: pointer;
+	margin-right: 31%; 
+}
